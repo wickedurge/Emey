@@ -1,0 +1,9 @@
+preferred_syntax = :sass
+http_path = '/'
+css_dir = '/wp-content/themes/emey/css/'
+sass_dir = '/wp-content/themes/emey/scss'
+images_dir = 'assets/images'
+javascripts_dir = '/wp-content/themes/js'
+relative_assets = true
+line_comments = true
+# output_style = :compressed
